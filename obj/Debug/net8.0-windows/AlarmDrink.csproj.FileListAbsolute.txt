@@ -1,0 +1,16 @@
+D:\SOURCE\AlarmDrink\WinFormsApp1\bin\Debug\net8.0-windows\AlarmDrink.exe
+D:\SOURCE\AlarmDrink\WinFormsApp1\bin\Debug\net8.0-windows\AlarmDrink.deps.json
+D:\SOURCE\AlarmDrink\WinFormsApp1\bin\Debug\net8.0-windows\AlarmDrink.runtimeconfig.json
+D:\SOURCE\AlarmDrink\WinFormsApp1\bin\Debug\net8.0-windows\AlarmDrink.dll
+D:\SOURCE\AlarmDrink\WinFormsApp1\bin\Debug\net8.0-windows\AlarmDrink.pdb
+D:\SOURCE\AlarmDrink\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\SOURCE\AlarmDrink\WinFormsApp1\obj\Debug\net8.0-windows\AlarmDrink.csproj.GenerateResource.cache
+D:\SOURCE\AlarmDrink\WinFormsApp1\obj\Debug\net8.0-windows\AlarmDrink.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOURCE\AlarmDrink\WinFormsApp1\obj\Debug\net8.0-windows\AlarmDrink.AssemblyInfoInputs.cache
+D:\SOURCE\AlarmDrink\WinFormsApp1\obj\Debug\net8.0-windows\AlarmDrink.AssemblyInfo.cs
+D:\SOURCE\AlarmDrink\WinFormsApp1\obj\Debug\net8.0-windows\AlarmDrink.csproj.CoreCompileInputs.cache
+D:\SOURCE\AlarmDrink\WinFormsApp1\obj\Debug\net8.0-windows\AlarmDrink.dll
+D:\SOURCE\AlarmDrink\WinFormsApp1\obj\Debug\net8.0-windows\refint\AlarmDrink.dll
+D:\SOURCE\AlarmDrink\WinFormsApp1\obj\Debug\net8.0-windows\AlarmDrink.pdb
+D:\SOURCE\AlarmDrink\WinFormsApp1\obj\Debug\net8.0-windows\AlarmDrink.genruntimeconfig.cache
+D:\SOURCE\AlarmDrink\WinFormsApp1\obj\Debug\net8.0-windows\ref\AlarmDrink.dll
