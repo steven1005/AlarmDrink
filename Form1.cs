@@ -269,11 +269,19 @@ namespace WinFormsApp1
 
         private void SitTimer_Tick(object sender, EventArgs e)
         {
+            if (!chkEnableSit.Checked)
+            {
+                return;
+            }
             ShowReminderWindow("久坐提醒", "久坐請站起動一動！", sitReminderPosition, newPosition => sitReminderPosition = newPosition);
         }
 
         private void WaterTimer_Tick(object sender, EventArgs e)
         {
+            if (!chkEnableDrink.Checked)
+            {
+                return;
+            }
             ShowReminderWindow("喝水提醒", "時間到，請多喝水！", waterReminderPosition, newPosition => waterReminderPosition = newPosition);
         }
 

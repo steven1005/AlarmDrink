@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOURCE\\AlarmDrink\\WinFormsApp1\\AlarmDrink.csproj",
+      "projectUniqueName": "D:\\SOURCE\\GitHubRepo\\AlarmDrink\\WinFormsApp1\\AlarmDrink.csproj",
       "projectName": "AlarmDrink",
-      "projectPath": "D:\\SOURCE\\AlarmDrink\\WinFormsApp1\\AlarmDrink.csproj",
+      "projectPath": "D:\\SOURCE\\GitHubRepo\\AlarmDrink\\WinFormsApp1\\AlarmDrink.csproj",
       "packagesPath": "C:\\Users\\u11033\\.nuget\\packages\\",
-      "outputPath": "D:\\SOURCE\\AlarmDrink\\WinFormsApp1\\obj\\",
+      "outputPath": "D:\\SOURCE\\GitHubRepo\\AlarmDrink\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
